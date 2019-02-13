@@ -10,7 +10,7 @@ const personOne = favoriteFoods => {
 };
 
 const personTwo = favoriteMovies => {
-  /*insert functionality here*/
+  console.log("My favorite movie is The Godfather.")
 };
 
 const personThree = favoriteAnimals => {
