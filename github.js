@@ -28,4 +28,6 @@ const iceBreaker = () => {
   /*
     Call each function here
     */
+   personOne
+   personTwo
 };
